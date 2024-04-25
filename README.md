@@ -7,3 +7,4 @@ Modify scheduling app for fictional Landon Hotel in Canada
 4. Developed Dockerfile to containerize application, tested in Docker environment, and prepared for deployment on cloud services, with plans for deployment on cloud service provider (e.g., AWS, Azure).
 
 ![image](https://github.com/jsmccaffrey/Multithreaded-App-for-Docker/assets/84482329/1e7fe6be-acf4-48e3-970a-04c7b48efc5a)
+![image](https://github.com/jsmccaffrey/Multithreaded-App-for-Docker/assets/84482329/12e89686-8146-44a3-8f9e-03c078fae8a3)
